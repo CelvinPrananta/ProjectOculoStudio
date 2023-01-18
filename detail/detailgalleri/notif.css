@@ -1,0 +1,17 @@
+.alert{
+	background: #4B8673;
+	color: white;
+	padding: 8px;
+	text-align: center;
+	border:1px solid #000000;
+	border-radius: 30px;
+}
+
+.alert2{
+	background: #e44e4e;
+	color: white;
+	padding: 8px;
+	text-align: center;
+	border:1px solid #000000;
+	border-radius: 30px;
+}
